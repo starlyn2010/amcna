@@ -1,0 +1,68 @@
+{
+    "xor": {
+        "0": {
+            "CfC_Baseline": {
+                "test_acc": 0.5777777777777777,
+                "test_loss": 0.6832213401794434,
+                "total_time": 14.543877840042114,
+                "epochs_run": 30
+            },
+            "AMCNA_NoDelib": {
+                "test_acc": 0.5777777777777777,
+                "test_loss": 0.6805954575538635,
+                "total_time": 56.21324563026428,
+                "epochs_run": 30
+            },
+            "AMCNA_Full": {
+                "test_acc": 0.5777777777777777,
+                "test_loss": 0.6841745376586914,
+                "total_time": 81.43666100502014,
+                "epochs_run": 30
+            }
+        }
+    },
+    "memory": {
+        "0": {
+            "CfC_Baseline": {
+                "test_acc": 1.0,
+                "test_loss": 0.001957968110218644,
+                "total_time": 14.996577739715576,
+                "epochs_run": 30
+            },
+            "AMCNA_NoDelib": {
+                "test_acc": 1.0,
+                "test_loss": 0.006549326702952385,
+                "total_time": 25.365310430526733,
+                "epochs_run": 30
+            },
+            "AMCNA_Full": {
+                "test_acc": 1.0,
+                "test_loss": 0.008500481955707073,
+                "total_time": 42.06010389328003,
+                "epochs_run": 30
+            }
+        }
+    },
+    "copy": {
+        "0": {
+            "CfC_Baseline": {
+                "test_acc": 0.8777777777777778,
+                "test_loss": 0.2648140788078308,
+                "total_time": 17.079365015029907,
+                "epochs_run": 30
+            },
+            "AMCNA_NoDelib": {
+                "test_acc": 0.8733333333333333,
+                "test_loss": 0.17733284831047058,
+                "total_time": 28.495102643966675,
+                "epochs_run": 30
+            },
+            "AMCNA_Full": {
+                "test_acc": 0.8733333333333333,
+                "test_loss": 0.1766054630279541,
+                "total_time": 63.67534852027893,
+                "epochs_run": 30
+            }
+        }
+    }
+}
